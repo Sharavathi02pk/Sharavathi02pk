@@ -1,5 +1,5 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://sharavathi02pk.io)
-<h1 align="center">Hello 👋, I'm Sharavathi..⭐</h1>
+<h1 align="center">Hello👋, I'm Sharavathi...⭐</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharavathi02pk&label=Profile%20views&color=0e75b6&style=flat" alt="sharavathi02pk" /> </p>
